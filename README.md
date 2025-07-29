@@ -4,7 +4,7 @@ A simple web-based Rock Paper Scissors game built using HTML, CSS, and JavaScrip
 
 ## 🎮 Demo
 
-Play the game here: [Live Demo](#) *(Add your deployed link here)*
+
 
 ## 🧠 Game Rules
 
@@ -20,5 +20,5 @@ Play the game here: [Live Demo](#) *(Add your deployed link here)*
 - Score tracking
 - Responsive design for all screen sizes
 
-## 📂 Project Structure
+
 
